@@ -17,8 +17,7 @@
 * 구현되지 않은 부분을 클릭하면 구현이 되어 ***클릭이 가능한 버튼이 잠깐 깜빡여 확인이 가능***합니다.
 
 ---------- <Link & QR code> ----------   
-![image](https://user-images.githubusercontent.com/101612281/201633973-e4a62946-134e-4a99-ad5d-94bbdf355393.png)
-
-* 테스트 링크: https://ovenapp.io/view/BaPOjLxlrMUO4aGCc71sy0ZOjG8nBPmN/ATqLE 
+![image](https://user-images.githubusercontent.com/101612281/201649375-482459f5-1a74-40d6-af88-24a2f98eec3c.png)   
+* 테스트 링크: https://ovenapp.io/view/BaPOjLxlrMUO4aGCc71sy0ZOjG8nBPmN/ATqLE  
 
 * 발표자료 링크: https://docs.google.com/presentation/d/1yHmZxgaZrjqRXyNuwk_IQhOHTTYRyRiNnIfH9-pKcR4/edit?usp=sharing 
