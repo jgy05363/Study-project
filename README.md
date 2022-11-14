@@ -11,6 +11,6 @@
 *테스트는 아래의 링크 혹은 QR코드를 이용하여 접속할 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/101612281/201596714-b6fa5b62-df8b-4e02-83c4-7db3188f83c5.png)
-https://ovenapp.io/view/BaPOjLxlrMUO4aGCc71sy0ZOjG8nBPmN/ATqLE 
+*테스트 링크: https://ovenapp.io/view/BaPOjLxlrMUO4aGCc71sy0ZOjG8nBPmN/ATqLE 
 
 *발표자료 링크: https://docs.google.com/presentation/d/1yHmZxgaZrjqRXyNuwk_IQhOHTTYRyRiNnIfH9-pKcR4/edit?usp=sharing 
