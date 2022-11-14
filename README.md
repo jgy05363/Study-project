@@ -10,7 +10,7 @@
 
 *테스트는 아래의 링크 혹은 QR코드를 이용하여 접속할 수 있습니다.
 
-![image](https://user-images.githubusercontent.com/101612281/201596714-b6fa5b62-df8b-4e02-83c4-7db3188f83c5.png)
+![image](https://user-images.githubusercontent.com/101612281/201633973-e4a62946-134e-4a99-ad5d-94bbdf355393.png)
 
 *테스트 링크: https://ovenapp.io/view/BaPOjLxlrMUO4aGCc71sy0ZOjG8nBPmN/ATqLE 
 
